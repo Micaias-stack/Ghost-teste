@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 # --- ENGINE CORE ---
-API_KEY = "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"
+API_KEY = "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"
 client = Groq(api_key=API_KEY)
 
 st.set_page_config(page_title="ARCHITECT_CORE_v29", layout="wide")
